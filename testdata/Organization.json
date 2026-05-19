@@ -1,0 +1,6 @@
+{
+    "url":"http://localhost:8888/index.php?action=Login&module=Users",
+    "orgname":"Testyantra_",
+    "username" :"admin",
+    "password" : "admin"
+}
